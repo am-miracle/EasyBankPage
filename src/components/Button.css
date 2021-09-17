@@ -1,0 +1,23 @@
+
+.btn {
+    padding: 2em;
+    border-radius: 30px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+.btn--primary{
+    background: var(--primary);
+    color: #fff;
+    transition: all 0.3s ease-out;
+}
+.btn--primary:hover{
+    opacity: .5;
+}
+
+.btn--medium{
+    padding: 1em 2em;
+    font-size: 15px;
+    font-weight: 500;
+}
+

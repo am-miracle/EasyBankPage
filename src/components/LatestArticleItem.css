@@ -1,0 +1,28 @@
+.article-img{
+    border-radius: 5px 5px 0 0;
+}
+.latest-info{
+    padding: 1em;
+}
+.latest-info figcaption{
+    font-size: .7rem;
+    color: var(--grayish-blue);
+    margin-top: .7em;
+}
+.h-link{
+    text-decoration: none;
+}
+.latest-info h4{
+    color: var(--dark-blue);
+    font-size: .9rem;
+    margin-top: 1em;
+    font-weight: 300;
+}
+.latest-info h4:hover{
+    color: hsl(136, 65%, 51%);
+}
+.latest-info p{
+    font-size: .8rem;
+    color: var(--grayish-blue);
+    margin-top: 1em;
+}

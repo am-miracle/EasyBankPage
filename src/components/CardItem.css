@@ -1,0 +1,17 @@
+.cards__item{
+    margin-top: 4em;
+}
+.cards__item__img{
+    width: 20%;
+}
+.cards__item__info{
+    margin-top: 2em;
+}
+.cards__item__info h3{
+    color: var(--dark-blue);
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+@media (min-width: 768px){
+    
+}
